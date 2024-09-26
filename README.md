@@ -1,5 +1,15 @@
 ## Hi there 👋
 
+<details>
+<summary>My top languages</summary>
+
+| Rank | Languages |
+|-----:|-----------|
+|     1| R         |
+|     2| Python    |
+|     3| HTML      |
+
+</details>
 <!--
 **todomonkos/todomonkos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
