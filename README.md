@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<details>
+<details open>
 <summary>My top languages</summary>
 
 | Rank | Languages |
