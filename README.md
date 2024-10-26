@@ -5,13 +5,12 @@
 
 | Rank | Languages |
 |-----:|-----------|
-|     1| R         |
-|     2| Python    |
+|     1| Python    |
+|     2| R         |
 |     3| HTML      |
+|     4| SQL       |
 
 </details>
-<!--
-**todomonkos/todomonkos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
